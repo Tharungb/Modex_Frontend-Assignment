@@ -7,5 +7,6 @@ Make layout fully responsive
 
 📬 Contact
 Bharath Ashwin
-📧 Email: ba0235@srmist.edu.in
-📞 Phone: +91 6385 851 499
+📧 Email:gbtharun0508@gmail.com
+📞 Phone: +91 6381 888 519
+
