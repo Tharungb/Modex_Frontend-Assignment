@@ -6,7 +6,7 @@ Make layout fully responsive
 
 
 📬 Contact
-Bharath Ashwin
+Tharun G B
 📧 Email:gbtharun0508@gmail.com
 📞 Phone: +91 6381 888 519
 
